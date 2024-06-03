@@ -22,4 +22,4 @@ In Rust , the `if-else` control staments allows you to execute differnt blocks o
 
 
 
-    '![Screenshot](https://github.com/aknankpuria/jetking_rust/blob/main/snipshots/3.png)'
+    '![Screenshot](https://github.com/aknankpuria/jetking_rust/blob/main/snipshots/3.png?raw=true)'
