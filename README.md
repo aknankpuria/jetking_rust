@@ -17,9 +17,9 @@ In Rust , the `if-else` control staments allows you to execute differnt blocks o
 
 
   # Steps to execute rust file . 
-   `go  to file path 
-    use `rustc main.rs` command for execution `
+    go  to file path 
+    use `rustc main.rs` command for execution   
 
 
 
-    '![Screenshot](sripshots/image.png)'
+    '![Screenshot](sripshots/https://github.com/aknankpuria/jetking_rust/blob/main/snipshots/3.png)'
