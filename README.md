@@ -22,4 +22,4 @@ In Rust , the `if-else` control staments allows you to execute differnt blocks o
 
 
 
-    '![Screenshot](image.png)'
+    '![Screenshot](sripshots/image.png)'
