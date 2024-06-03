@@ -1,7 +1,7 @@
 
 
 fn main() {
-    let number = 10;
+    let number = 3;
      
      if number > 5 {
          println!("number is greater than 5");
